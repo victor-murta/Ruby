@@ -8,7 +8,7 @@ default: &default
 development:
   <<: *default
   username: postgres
-  password: pass
+  password: vmurtag33
   database: Ieat_development
 
 test:
